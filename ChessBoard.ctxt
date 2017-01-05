@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChessBoard()
+comment1.params=i\ j
+comment1.target=ChessPiece\ piece_Board(int,\ int)
+comment2.params=
+comment2.target=void\ print_board()
+comment3.params=row\ col
+comment3.target=boolean\ isPieceAt(int,\ int)
+comment4.params=piece\ location
+comment4.target=void\ placePieceAt(ChessPiece,\ ChessLocation)
+comment5.params=location
+comment5.target=void\ removePiece(ChessLocation)
+numComments=6

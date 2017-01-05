@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=owner\ intialLocation\ game
+comment0.target=Rook(java.lang.String,\ ChessLocation,\ ChessGame)
+comment0.text=\ \r\n\ Knight\ constructor\ which\ creates\ a\ new\ knight\ with\ the\ parameters\ owner,\ location\ and\ the\ game\ \r\n\ it\ belongs\ to.\ \r\n
+comment1.params=newLocation
+comment1.target=boolean\ moveTo(ChessLocation)
+comment1.text=\ \r\n\ Checks\ the\ valid\ moves\ for\ a\ knight\ piece.\ If\ within\ range\ of\ board\ and\ valid\ moves,\ it\r\n\ removes\ piece\ from\ old\ location\ and\ relocates\ it\ at\ the\ new\ valid\ location.\ \r\n
+comment2.params=newLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+numComments=3
